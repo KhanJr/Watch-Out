@@ -25,9 +25,9 @@ https://github.com/KhanJr/Watch-Out/blob/main/Watch%20Out.apk
 
 ### Main Menu
 <p align="center">
-  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/StartGame" width="280">
-  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/GamePlay" width="280">
-  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/GameEnd" width="280">
+  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/StartGame" width="300">
+  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/GamePlay" width="300">
+  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/GameEnd" width="300">
 </p>
 
 ## Future Work
@@ -38,9 +38,9 @@ Improving Game:
 * Creation of Map is in progress.
 * Demo of map: 
 <p align="center">
-  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/index2.jpeg" width="450">
-  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/index1.jpeg" width="450">
-  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/index3.jpeg" width="450">
-  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/index.jpeg" width="450"
+  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/index2.jpeg" width="500">
+  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/index1.jpeg" width="500">
+  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/index3.jpeg" width="500">
+  <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/index.jpeg" width="500"
 
 </p>
