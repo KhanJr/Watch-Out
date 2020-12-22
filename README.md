@@ -25,15 +25,7 @@ https://github.com/KhanJr/Watch-Out/blob/main/Watch%20Out.apk
 ### Main Menu
 <p align="center">
   <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/StartGame" width="300">
-</p>
-
-### Game Play
-<p align="center">
   <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/GamePlay" width="300">
-</p>
-
-### End Game
-<p align="center">
   <img src="https://github.com/KhanJr/Watch-Out/blob/main/Images/GameEnd" width="300">
 </p>
 
