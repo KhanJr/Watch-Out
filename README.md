@@ -14,6 +14,7 @@ This is a complete Game for Android. This is additive game once you play you jus
 Project is created with:
 * Unity
 * C#
+* Made own Sound Track for the game.
 	
 ## Download
 You can download the game from this repo. The game name is Watch Out.apk
